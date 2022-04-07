@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\CHECAUTO\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\CHECAUTO\\.nuget\\packages"
+    ]
+  }
+}
